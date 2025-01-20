@@ -330,9 +330,7 @@ class TestTextMessage:
                         }
                     ]
                 },
-                {
-                    "url": "https://media.githubusercontent.com/media/ag2ai/ag2/refs/heads/main/website/static/img/autogen_agentchat.png"
-                },
+                "<image>",
             ),
         ],
     )
